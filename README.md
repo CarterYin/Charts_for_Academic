@@ -1,2 +1,5 @@
-# Charts_for_Academic
-一些在科研中我积累的绘图代码
+# Academic Drawing
+## 直方图
+## 饼图
+## 热图
+## 相关性图
